@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **ReactJS Frontend Framework**
 
-- 👯 I’m looking to collaborate on **Python and Django**
+- 👯 I’m looking to collaborate on **Python and Django and Flask**
 
 
 - 💬 Ask me about **Python**
