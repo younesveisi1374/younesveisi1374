@@ -12,11 +12,11 @@
 [![Website](https://img.shields.io/website?down_color=blue&down_message=blue&up_color=yellow&up_message=my%20resume&url=https%3A%2F%2Falibigdeli.github.io%2F)]
 
 
-- 🔭 I’m currently working on **Twitter Project**
+- 🔭 I’m currently working on **Odoo ERP for Write Modules**
 
-- 🌱 I’m currently learning **ReactJS Frontend Framework**
+- 🌱 I’m currently learning **Dokcer**
 
-- 👯 I’m looking to collaborate on **Python and Django and Flask**
+- 👯 I’m looking to collaborate on **Python and Docker**
 
 
 - 💬 Ask me about **Python**
