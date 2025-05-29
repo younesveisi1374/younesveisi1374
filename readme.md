@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Odoo ERP for Write Modules**
 
-- 🌱 I’m currently learning **Dokcer**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Python and Docker**
 
